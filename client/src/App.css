@@ -1,0 +1,27 @@
+/* src/index.css */
+
+*{
+  margin:0 ;
+  padding: 0%;
+}
+
+.text-neonGreen {
+  color: #39FF14;
+}
+
+.border-neonGreen {
+  border-color: #39FF14;
+}
+
+.hover-bg-neonGreen:hover {
+  background-color: #39FF14;
+  color: black;
+}
+
+.text-neonGreen:hover {
+  text-shadow: 0 0 5px #39FF14;
+}
+
+.border-neonGreen:hover {
+  box-shadow: 0 0 10px #39FF14;
+}
